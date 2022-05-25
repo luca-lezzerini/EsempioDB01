@@ -1,0 +1,3 @@
+documentabile
+
+`dtype`, `id`, `codice`, `descrizione`, `scadenza`, `sito_web`, `stato`, `titolo`, `cognome`, `data_nascita`, `email`, `nome`, `telefono`, `obbligatorio`, `rif_capitolato`, `stato_requisito`, `deadline`, `perc_completamento`, `bando_id`, `board_id`, `tipologia_persona_id`
