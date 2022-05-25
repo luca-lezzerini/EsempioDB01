@@ -1,0 +1,17 @@
+Dopo aver ripassato per bene il tutorial SQL, fatti gli esercizi che propone, svolger ei seguenti esercizi:
+
+1) Stampare tutti i record delle tabelle:
+
+board
+
+check_list_item
+
+modello_check_list
+
+2) usando la clausola where, mostrare tutti i record della tabella modello_check_list che soddisfano, una alla volta, le seguenti condizioni:
+
+2.a) dtype = ModelloChecklList
+
+2.b) dtype = CheckListFattibilità
+
+3) usando la clausola group by, nella tabella modello_check_list contare per ogni tipo in dtype il numero di record e visualizzarlo
